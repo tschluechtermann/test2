@@ -1,0 +1,1 @@
+# ascedia-ng-api-proto
